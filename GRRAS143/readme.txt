@@ -1,13 +1,3 @@
-Group Code:
-GRRAS143
-
-Group Members:
-1. Name: Atharva Shrivastava
-2. Name: Raj Jain
-3. Name: Rishi Goyal
-4. Name: Saransh Kasliwal
-5. Name: Giriraj Chandak
-
 Instructions for Compiling Programs:
 Task 3: Part1 Semantic Analysis
 
