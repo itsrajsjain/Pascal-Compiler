@@ -1,5 +1,3 @@
-Readme for Pascal-compiler at https://github.com/itsrajsjain/Pascal-Compiler/tree/main.
-
 Instructions for Compiling Programs:
 Task 3: Part1 Semantic Analysis
 
