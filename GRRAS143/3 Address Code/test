@@ -1,0 +1,8 @@
+program Example9;
+var
+  i: Integer;
+  numbers:array[1..6] of integer;
+begin
+  i := 4;
+  read(numbers[4]);
+end.

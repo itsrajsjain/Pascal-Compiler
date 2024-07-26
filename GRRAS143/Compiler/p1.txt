@@ -1,0 +1,1 @@
+[PROGRAMgcdofnumbers[VAR[INTEGER[{,}[id:{a}][id:{b}]]]][MAIN[BEGIN][READ[id:{a}]][READ[id:{b}]][WHILE[COND[<>[id:{a}][id:{b}]]][DO_BODY[BEGIN][IF2[COND[<[id:{a}][id:{b}]]][THEN_BODY[BEGIN][:=[id:{b}][-[id:{b}][id:{a}]]][END]]][IF2[COND[>[id:{a}][id:{b}]]][THEN_BODY[BEGIN][:=[id:{a}][-[id:{a}][id:{b}]]][END]]][END]]][WRITE[{"gdc:"}]][WRITE[id:{a}]][END]]]

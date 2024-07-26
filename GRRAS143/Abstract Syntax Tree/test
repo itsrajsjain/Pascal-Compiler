@@ -1,0 +1,13 @@
+program ReverseNumber;
+var
+  num,i: Integer;
+  numbers: array [1..6] of integer;
+begin
+ i:=5;
+ read(numbers[4]);
+ num:=numbers[4];
+ write(a,b,c,d);
+ 
+ write(num);
+ 
+end.

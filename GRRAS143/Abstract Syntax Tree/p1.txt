@@ -1,0 +1,1 @@
+[PROGRAM[ReverseNumber][{;}][VAR[INTEGER[{,}[id:{num}][id:{i}]]][{;}][ARRAY[OF][INTEGER][RANGE->1..6][{:}][id:{numbers}]][{;}]][MAIN[BEGIN][:=[id:{i}][5]][{;}][READ[numbers{4}]][{;}][:=[id:{num}][numbers{4}]][{;}][WRITE[{,}[id:{a}][{,}[id:{b}][{,}[id:{c}][id:{d}]]]]][{;}][WRITE[id:{num}]][{;}][END]][{.}]]
